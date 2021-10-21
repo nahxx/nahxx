@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <br>
 🎠 <b>T E C H</b> 🎠
 <br>
-  [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
-<img src="https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+
+<img src="https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />(https://github.com/naweather/AcademyClass-Python-and-Java.git)
 <img src="https://img.shields.io/badge/CSS-#1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white" />
