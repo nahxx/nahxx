@@ -17,4 +17,20 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Weather🌞&fontSize=90" />
 
+  
+🎠 <b>T E C H</b> 🎠
+
+<img src="https://img.shields.io/badge/HTML5-#E34F26?style=for-the-badge&logo=HTML&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-#1572B6?style=for-the-badge&logo=CSS&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-#007396?style=for-the-badge&logo=JAVA&logoColor=white">
+ 
+
+🎫 <b>T O D A Y</b>🎫
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnaweather&count_bg=%23F3CF02&title_bg=%23F1ADF7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com" />
+
 </div>
+<img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">
+
+출처: https://byul91oh.tistory.com/214 [개발하는 감자 [: 개감]]
