@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=WeatherIsNICE🌞%20render&fontSize=90
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Weather🌞%20render&fontSize=90")
