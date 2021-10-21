@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Weather is NICE🌞%20render&fontSize=90)
