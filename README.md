@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Weather🌞&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&fontSize=90" />
 <br>
 
 🎫 <b>T O D A Y</b>🎫
